@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Masoudi00/rectapp2.git/static/css/main.07ceb379.css",
-    "main.js": "/Masoudi00/rectapp2.git/static/js/main.c1a26b9f.js",
-    "index.html": "/Masoudi00/rectapp2.git/index.html",
-    "main.07ceb379.css.map": "/Masoudi00/rectapp2.git/static/css/main.07ceb379.css.map",
-    "main.c1a26b9f.js.map": "/Masoudi00/rectapp2.git/static/js/main.c1a26b9f.js.map"
+    "main.css": "/rectapp2/static/css/main.07ceb379.css",
+    "main.js": "/rectapp2/static/js/main.c1a26b9f.js",
+    "index.html": "/rectapp2/index.html",
+    "main.07ceb379.css.map": "/rectapp2/static/css/main.07ceb379.css.map",
+    "main.c1a26b9f.js.map": "/rectapp2/static/js/main.c1a26b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.07ceb379.css",
